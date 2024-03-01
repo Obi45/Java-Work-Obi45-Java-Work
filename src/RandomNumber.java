@@ -5,7 +5,6 @@ public class RandomNumber {
         SecureRandom randomNumbers = new SecureRandom();
         int frequency1 = 0;
         int frequency2 = 0;
-
         int frequency3 = 0;
         int frequency4 = 0;
         int frequency5 = 0;
